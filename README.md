@@ -1,3 +1,4 @@
+#Trend Following System
 Implements algorithm for trend following trading strategy.
 
 We establish a strategy of trend following (buying when price trend goes up, selling when price trend goes down.)
